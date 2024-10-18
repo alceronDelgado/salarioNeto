@@ -16,6 +16,7 @@ public class SalarioNeto {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "hello world");
+        JOptionPane.showMessageDialog(null, "hello world2");
     }
     
 }
